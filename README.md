@@ -1,5 +1,5 @@
 # Sinensis---Agricultural-Operations-Planning-System
-# 🌱 Sinensis
+#  Sinensis
 
 ### Agricultural Operations Planning System
 
@@ -11,7 +11,7 @@ The original academic study was based on the fictional **Rosa de Saron Farm**, a
 
 Rather than keeping the work only as a static academic report, this project aims to transform its calculations and methodologies into a reusable software system capable of modeling and evaluating agricultural mechanized operations.
 
-## ⚠️ Project Status
+##  Project Status
 
 **Sinensis is currently incomplete and under active development.**
 
@@ -23,7 +23,7 @@ The Rosa de Saron Farm is used as the project's first case study, but the long-t
 
 ---
 
-## 🎓 Academic Background
+## Academic Background
 
 The project began as part of a practical assignment for the **Agricultural Mechanization** course.
 
@@ -46,7 +46,7 @@ During the development of the assignment, several calculations were initially pe
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 The main goal of Sinensis is to develop a computational tool for agricultural operational planning.
 
@@ -67,7 +67,7 @@ Future versions may also incorporate weather constraints, operational calendars,
 
 ---
 
-## 🚜 First Case Study — Rosa de Saron Farm
+## First Case Study — Rosa de Saron Farm
 
 The first case study used by Sinensis comes directly from the Agricultural Mechanization assignment.
 
@@ -89,7 +89,7 @@ Rosa de Saron is **not hard-coded as the system itself**. It serves as the initi
 
 ---
 
-## 🧮 Current Development Focus
+## Current Development Focus
 
 The current development stage focuses on the operational sizing core.
 
@@ -127,7 +127,7 @@ Field efficiency and mechanical availability are intentionally treated as separa
 
 ---
 
-## 💻 Technology
+## Technology
 
 The current version uses:
 
@@ -139,7 +139,7 @@ The project intentionally starts with a small architecture before introducing fr
 
 ---
 
-## 🏗️ Current Architecture
+## Current Architecture
 
 ```text
 src/
